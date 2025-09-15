@@ -3,7 +3,7 @@
 ## 🚀 Projects  
 
 - [**Food Supply Chain Tracking System**](https://github.com/wzqiao/COMP6452):  
-  A **blockchain-powered system** for transparent **food traceability**, built with **Flask + React + Ethereum smart contracts**.  
+  A **blockchain-powered system** for transparent **food traceability**, built with **Flask + React.js + Ethereum smart contracts**.  
 
 - [**Balatro Mini Game**](https://github.com/lililimimimi/balatro-mini-game):  
   A **Rust-based mini game** inspired by **Balatro**, featuring **poker hand scoring** and core mechanics using the **Ortalab** library.  
