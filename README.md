@@ -11,7 +11,7 @@
 - [**Presto**](https://github.com/lililimimimi/presto):  
   A **React.js-based presentation app** inspired by **Slides.com**, with modern **UI/UX** and deployed on **Vercel**.  
 
-- [**Naughty Clock (Mobile Version)**](https://github.com/lililimimimi/naughtyclock):  
+- [**Naughty Clock (Mobile Version)**](https://github.com/Jintangyan/NaughtyClock):  
   A customizable **IoT alarm clock app** featuring **motion detection** (with **Python + Raspberry Pi 4**) and **real-time sync** via **Firebase**, built using **React Native**.  
 
 - [**Recipe Website (PC Version)**](https://github.com/SherryTt/recipe-web):  
